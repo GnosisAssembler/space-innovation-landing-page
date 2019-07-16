@@ -1,7 +1,5 @@
 # space-innovation-landing-page
 
-![code sample](https://img.shields.io/badge/code-sample-yellowgreen.svg?style=flat-square)
-
 > Space Innovation Greece landing page
 
 ![sample](sample/sample.JPG)
