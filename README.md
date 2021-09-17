@@ -2,7 +2,7 @@
 
 > Space Innovation Greece landing page
 
-[Space Innovation Landing Page](https://crooked-wave.surge.sh/)
+You can see the **Space Innovation Landing Page** [here](https://crooked-wave.surge.sh/).
 
 ![sample](sample/sample.JPG)
 
